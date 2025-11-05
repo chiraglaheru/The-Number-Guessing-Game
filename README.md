@@ -12,3 +12,6 @@ A simple Python number guessing game where the computer picks a number and you h
 - Two difficulty levels
 - Limited attempts
 - Interactive feedback
+
+- Motivation
+I built this project to strengthen my core Python skills—particularly with conditionals, loops, and user input handling—while creating something interactive and fun. It's a great beginner project that demonstrates fundamental programming concepts in an engaging way.
